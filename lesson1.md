@@ -14,7 +14,7 @@
 5. Scrapy
 
 ## Библиография
-1. Getting Data from the Web http://datajournalismhandbook.org/1.0/en/getting_data_3.html
+1. Получение данных из сети https://ria.ru/files/book/_site/ch04_3.html
 2. 10 Scraping Tools http://www.hongkiat.com/blog/web-scraping-tools/
 3. Scrapy https://scrapy.org
 4. HTML Scraping http://docs.python-guide.org/en/latest/scenarios/scrape/
