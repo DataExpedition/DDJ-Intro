@@ -11,8 +11,10 @@
 4. Дата-журналистика как процесс (Жизненный цикл работы с открытыми данными)      
 5. Поиск и сбор открытых данных      
 
-## Используемые сервисы
+## Используемые сервисы и платформы
 1. HackPad: https://hackpad.com/--1ypsvV53eft      
+2. Хаб данных: http://hubofdata.ru/      
+3. GitHub: https://github.com/DataExpedition/DDJ-Intro
 
        
 ## 1. История проекта по дата-журналистике (2013 г.)    
@@ -22,19 +24,26 @@
 Персоналии.     
 
 ## 2. Первая дата-экспедиция. История Data Expeditions и School of Data (2013 г.)      
-Как проходила, какие были результаты (ссылка).
+Как проходила (Data Expeditions at MozFest: http://schoolofdata.org/2012/11/14/data-expeditions-at-mozfest/).
+Какие были результаты (http://schoolofdata.org/2013/06/25/data-mooc-results-findings-and-recommendations/).
 Почему были получены именно такие результаты?
 
 ## 3. Дата-экспедиции на русском языке
 Дата-экспедиции: от первой к пятой.    
-Принципы дата-экспедиций. Презентация: 
-Научные статьи с описанием методологии проведения дата-экспедиции: 
+Принципы дата-экспедиций. 
+Первая дата-экспедиция: http://www.slideshare.net/iradche/data-exp001     
+Обзор первой дата-экспедиции: https://ourchiefweapons.wordpress.com/2013/08/05/first-data-expedition-in-russian-mission-complete/     
+О дата-экспедициях (слайд 20): http://www.slideshare.net/iradche/ss-52062474      
+     
+Научные статьи с описанием методологии проведения дата-экспедиции: http://link.springer.com/chapter/10.1007/978-3-319-30493-9_8      
+Дата-экспедиции в контексте смешанного и активного обучения: http://www.slideshare.net/iradche/data-expeditions-methodology     
+О гражданской науке: http://www.slideshare.net/iradche/7-principles-of-citizen-science     
       
 Проведение дата-экспедиций в вузе.     
 Проведение тренингов. 
-2014 - 
-2015 -
-2016 -
+2014 - Новосибирск, Ростов-на-Дону, Пермь, Караганда (Казахстан)     
+2015 - Пермь, Новосибирск, Бишкек     
+2016 - Душанбе (Таджикистан), Астана (Казахстан), Ташкент (Узбекистан), СПбГУ (на англ. яз.) 
 
 ## 4. Дата-журналистика как процесс (Жизненный цикл работы с открытыми данными)
 Презентация: https://github.com/DataExpedition/DDJ-Intro/blob/master/presentations/03_DDJprocess.pdf
@@ -42,6 +51,7 @@
 ## 5. Поиск и сбор открытых данных
 Презентация по поиску открытых данных:    
 Презентация по сбору открытых данных:       
+Работа с открытыми данными: http://www.slideshare.net/iradche/open-data-processing-and-visualizing       
 
 Инструменты:     
 1. Google Spreadsheets          
