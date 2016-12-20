@@ -49,16 +49,12 @@
 Презентация: https://github.com/DataExpedition/DDJ-Intro/blob/master/presentations/03_DDJprocess.pdf
 
 ## 5. Поиск и сбор открытых данных
-Презентация по поиску открытых данных:    
-Презентация по сбору открытых данных:       
-Работа с открытыми данными: http://www.slideshare.net/iradche/open-data-processing-and-visualizing       
+Презентация по поиску открытых данных: http://www.slideshare.net/iradche/data-journalism-master-class          
+Презентация по сбору открытых данных: https://github.com/DataExpedition/DDJ-Intro/blob/master/presentations/02_DataCollect.pdf       
+Работа с открытыми данными: http://www.slideshare.net/iradche/open-data-processing-and-visualizing           
 
-Инструменты:     
-1. Google Spreadsheets          
-2. OpenRefine     
-3. Import.io      
-4. Outwit Hub     
-5. Scrapy    
+Презентация "Система контроля версий GitHub не для IT-шников": http://www.slideshare.net/iradche/github-49275437
+    
       
 ## Библиография
 1. Получение данных из сети https://ria.ru/files/book/_site/ch04_3.html
