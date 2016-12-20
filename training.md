@@ -1,6 +1,6 @@
 ## Знакомство
 
-**Преподаватель:**     
+**Лектор:**     
 Ирина Алексеевна Радченко, доцент Университета ИТМО: https://about.me/irina.radchenko, https://twitter.com/iradche     
 Со-основатель совместного блога по дата-журналистике: http://www.datadrivenjournalism.ru/
 
