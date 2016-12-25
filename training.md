@@ -57,8 +57,9 @@
     
       
 ## Библиография
-1. Получение данных из сети https://ria.ru/files/book/_site/ch04_3.html
-2. 10 Scraping Tools http://www.hongkiat.com/blog/web-scraping-tools/
-3. Scrapy https://scrapy.org
-4. HTML Scraping http://docs.python-guide.org/en/latest/scenarios/scrape/
-5. Software for Web Scraping http://scraping.pro/software-for-web-scraping/
+1. Учебный курс по дата-журналистике: http://datajournalism.stanford.edu/
+2. Получение данных из сети https://ria.ru/files/book/_site/ch04_3.html
+3. 10 Scraping Tools http://www.hongkiat.com/blog/web-scraping-tools/
+4. Scrapy https://scrapy.org
+5. HTML Scraping http://docs.python-guide.org/en/latest/scenarios/scrape/
+6. Software for Web Scraping http://scraping.pro/software-for-web-scraping/
